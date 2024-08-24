@@ -1,0 +1,14 @@
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\bin\Debug\net6.0\RefatorarObserver.exe
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\bin\Debug\net6.0\RefatorarObserver.deps.json
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\bin\Debug\net6.0\RefatorarObserver.runtimeconfig.json
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\bin\Debug\net6.0\RefatorarObserver.dll
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\bin\Debug\net6.0\RefatorarObserver.pdb
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\RefatorarObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\RefatorarObserver.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\RefatorarObserver.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\RefatorarObserver.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\RefatorarObserver.dll
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\refint\RefatorarObserver.dll
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\RefatorarObserver.pdb
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\RefatorarObserver.genruntimeconfig.cache
+C:\Users\manha.cetafest\Documents\GitHub\RefazerObserver\RefatorarObserver\RefatorarObserver\obj\Debug\net6.0\ref\RefatorarObserver.dll
